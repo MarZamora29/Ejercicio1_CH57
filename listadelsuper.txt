@@ -5,3 +5,5 @@ Lista del súper:
 4. Jamon
 5. Azucar
 6. Chiles
+7. brocoli
+8. papas 
