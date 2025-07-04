@@ -2,3 +2,6 @@ Lista del súper:
 1. Carne molida
 2. Manzana
 3. Calabaza
+4. Jamon
+5. Azucar
+6. Chiles
