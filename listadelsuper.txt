@@ -1,4 +1,4 @@
-Lista del súper:
+﻿Lista del súper:
 1. Carne molida
 2. Manzana
 3. Calabaza
@@ -7,3 +7,8 @@ Lista del súper:
 6. Chiles
 7. brocoli
 8. papas 
+9. salchichas
+10. salsa
+11. mayonesa
+12. catsup
+13. galletas
